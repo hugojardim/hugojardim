@@ -1,5 +1,4 @@
-Hi!
-   My name is Hugo, I am a student of programming and software engineering, it's a pleasure to have you here.
+Hi! My name is Hugo. I am a student of programming and software engineering, it's a pleasure to have you here.
 
 ## Skills:
 | Front | Back | Infra |
