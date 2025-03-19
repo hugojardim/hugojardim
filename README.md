@@ -6,7 +6,7 @@ Hi! My name is Hugo. I am a Data Scientist and Machine Learning Researcher, it i
 |![Base](https://skillicons.dev/icons?i=python,pytorch,sklearn,aws&perline=3) |![Base](https://skillicons.dev/icons?i=python,flutter&perline=3) |![Base](https://skillicons.dev/icons?i=php,python&perline=3)  |![Base](https://skillicons.dev/icons?i=mysql,linux,docker,kubernetes)   |                     
 
 ### Specialization:
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorfloerience in Technologies:
+![My Skills](https://skillicons.dev/icons?i=pytorch,tensorfloerience) in Technologies:
 
 Python, Pandas, PyTorch, Optuna, Scikit-Learn
 
