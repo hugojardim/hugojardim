@@ -3,22 +3,7 @@ Hi! My name is Hugo. I am a Data Scientist and Machine Learning Researcher, it i
 ## Skills:
 | DS & ML | Front | Back | Infra |
 |----------|----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=python,pytorch,sklearn,aws&perline=3) |![Base](https://skillicons.dev/icons?i=python,flutter&perline=3) |![Base](https://skillicons.dev/icons?i=php,python&perline=3)  |![Base](https://skillicons.dev/icons?i=mysql,linux,docker,kubernetes)   |                     
-
-### Specialization:
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorfloerience) in Technologies:
-
-Python, Pandas, PyTorch, Optuna, Scikit-Learn
-
-Natural Language Processing (NLP)
-
-LangChain, Chroma, RAG, Ollama, LLMs
-
-Flutter, Relational databases, AWS S3
-
-Data analysis and metrics for Machine Learning models
-
-Application development using Firebase and GitHub
+|![Base](https://skillicons.dev/icons?i=python,pandas,pytorch,sklearn,aws&perline=3) |![Base](https://skillicons.dev/icons?i=python,flutter&perline=3) |![Base](https://skillicons.dev/icons?i=php,python&perline=3)  |![Base](https://skillicons.dev/icons?i=mysql,linux,docker,kubernetes)   |                     
 
 ### Current Focus:
 Implementation of advanced predictive models
