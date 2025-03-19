@@ -3,7 +3,7 @@ Hi! My name is Hugo. I am a Data Scientist and Machine Learning Researcher, it i
 ## Skills:
 | DS & ML | Front | Back | Infra |
 |----------|----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=python,pandas,pytorch,sklearn,aws&perline=3) |![Base](https://skillicons.dev/icons?i=python,flutter&perline=3) |![Base](https://skillicons.dev/icons?i=php,python&perline=3)  |![Base](https://skillicons.dev/icons?i=mysql,linux,docker,kubernetes)   |                     
+|![Base](https://skillicons.dev/icons?i=python,pytorch,sklearn,aws&perline=3) |![Base](https://skillicons.dev/icons?i=python,flutter&perline=3) |![Base](https://skillicons.dev/icons?i=php,python&perline=3)  |![Base](https://skillicons.dev/icons?i=mysql,linux,docker,kubernetes)   |                     
 
 ### Current Focus:
 Implementation of advanced predictive models
