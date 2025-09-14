@@ -112,27 +112,3 @@
     </td>
   </tr>
 </table>
-
-        ---
-        
-        ## 📈 Estatísticas do GitHub
-        
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=hugojardim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Hugo"/>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugojardim&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas por Hugo"/>
-        </div>
-        
-        ---
-        
-        ## 📫 Entre em Contato
-        
-        <p align="center">
-        <a href="https://www.linkedin.com/in/hugo-moreno-i-veiga-jardim" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        &nbsp;
-        <a href="mailto:hugomorenoveiga@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-        </p>
