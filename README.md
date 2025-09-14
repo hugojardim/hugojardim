@@ -80,7 +80,7 @@
           <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />
         </a>
         <a href="https://mlflow.org/" target="_blank">
-          <img style="margin: 10px" src="[[https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg](https://cdn.brandfetch.io/](https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)" alt="MLflow" height="50" />
+          <img style="margin: 10px" src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="MLflow" height="50" />
         </a>
         <a href="https://www.rabbitmq.com/" target="_blank">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />
