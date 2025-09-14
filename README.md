@@ -18,10 +18,6 @@
   Desenvolvedor de IA e Pesquisador com sólida experiência no desenvolvimento de soluções <strong>end-to-end</strong>, desde a concepção até a produção. Meu foco está em Agentes LLMs, sistemas RAG, agentes de IA, NLP e pipelines de Machine Learning robustos.
 </p>
 
-<p align="left">
-  Tenho um histórico comprovado na aplicação de tecnologias como <strong>Python, RAG, LangGraph, PyTorch, FastAPI e Docker</strong> para criar aplicações inteligentes e eficientes. Minha paixão é transformar dados em soluções práticas e mensuráveis, sempre buscando os melhores resultados de desempenho.
-</p>
-
 ---
 
 ## 🚀 Principais Competências
