@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Principais Competências
 
 <table>
@@ -107,4 +107,5 @@
       </div>
     </td>
   </tr>
-</table>
+</table> 
+-->
